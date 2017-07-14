@@ -9,6 +9,7 @@ The MongooseIM platform includes server-side components and client libraries. We
 a test suite and a monitoring server. We recommend third-party, open source client libraries
 for XMPP and REST API.
 
+
 The most important links:
 
 * Home: [http://github.com/esl/MongooseIM](http://github.com/esl/MongooseIM)
